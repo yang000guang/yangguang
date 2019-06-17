@@ -1,4 +1,4 @@
-![](media/https://github.com/yang000guang/yangguang/blob/master/WechatIMG50.jpeg）
+![](https://github.com/yang000guang/yangguang/blob/master/WechatIMG50.jpeg）
 ## (1)商城官宣
 AB商城，基于AI技术和区块链(blockchain)技术打造的去中心化商城，由爱点信息科技(深圳)有限公司倾力打造。母公司爱点信息科技2019年6月8日于香港挂牌上市，股票代码：92037.
 
